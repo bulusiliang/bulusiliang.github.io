@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: Bulusiliang
+subtitle: 一个蓉漂小码农
+description: 涉猎编程语言有Java、Python，领域涵盖批处理、分布式、DevOps、数据分析等
+keywords: “DevOps, Java, Python, Kubernetes”
+author: Q哥
+language: zh-CN
+timezone: 'Asia/ShangHai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://bulusiliang.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
